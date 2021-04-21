@@ -2,8 +2,11 @@
 
 
 😎 Hobbies:Cooking 👩🏻‍🍳, Coding 👩🏻‍💻, Reading 📖... 
-🧐 I’m currently learning Html, Css, & JavaScript ... 
+
+🧐 I’m currently learning Html, Css, & JavaScript 
+
 📚 Enrolled in Foundations Course @Code Chrysalis 
+
 🗣 I speak fluent Spanish.
 Working on learning Thai 🇹🇭, & Japanese 🇯🇵
 
